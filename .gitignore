@@ -13,3 +13,4 @@ dist/
 frontend/dist/
 frontend/node_modules/
 *.log
+venv
