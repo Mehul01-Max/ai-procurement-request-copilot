@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.pytest_cache/
+evals/results_*.csv
+evals/results.json
+evals/results.md
+evals/.judge_cache.json
+node_modules/
+dist/
+frontend/dist/
+frontend/node_modules/
+*.log
