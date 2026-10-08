@@ -11,8 +11,8 @@ Ship **Architecture A, the single-agent baseline**. Do not ship the staged varia
 | Escalation correct | 100% | 100% |
 | Policy compliant | 100% | 100% |
 | Evidence grounded (programmatic) | 100% | 100% |
-| Mean latency | 4.8 ms | 4.2 ms |
-| p95 latency | 12.3 ms | 5.4 ms |
+| Mean latency | 5.0 ms | 4.2 ms |
+| p95 latency | 11.4 ms | 4.8 ms |
 | Mean LLM calls | 0.0 | 0.0 |
 | Mean tool calls | 5.0 | 5.0 |
 
